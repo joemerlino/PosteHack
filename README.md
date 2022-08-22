@@ -1,0 +1,2 @@
+# PosteHack
+ Bypass jailbreak alert.
