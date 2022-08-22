@@ -1,0 +1,9 @@
+Package: com.joemerlino.postehack
+Name: PosteHack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass jailbreak alert.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
