@@ -26,5 +26,8 @@ typedef NS_ENUM(NSInteger, DAAlertActionStyle) {
             }
         }
 	}
+    else{
+        %orig;
+    }
 }
 %end
